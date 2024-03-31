@@ -12,3 +12,7 @@ Pytest
 MongoDb
 Flask
 Git
+
+
+
+Still lot of topics to learn ...............
