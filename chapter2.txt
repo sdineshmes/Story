@@ -1,0 +1,14 @@
+so far learned:
+
+Python
+Sql
+AWS
+HTML
+CSS
+JAVASCRIPT
+Django
+Django Rest API
+Pytest
+MongoDb
+Flask
+Git
